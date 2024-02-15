@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software engineer with strong background on both front and backend development, currently working at Siemens/EnlightedInc.<br>Looking to help new developers to grow from my experience.<br><br>⚡️Fun fact: Besides code, drift/modded cars are my passion!<br>🐣 Loading baby... 60% | ETA: Dec 2023
+🔭 Software engineer with strong background on both front and backend development, currently working at Siemens/EnlightedInc.<br>Looking to help new developers to grow from my experience.<br><br>⚡️Fun fact: Besides code, drift/modded cars are my passion!<br>🐣 ~~Loading baby... 60% | ETA: Dec 2023~~ Joaquin is here 🚀
 
 
 ## 🌐 Socials:
